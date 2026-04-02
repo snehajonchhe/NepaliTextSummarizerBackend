@@ -1,0 +1,16 @@
+flask
+flask-cors
+torch
+transformers
+pandas
+sentence-transformers
+indic-nlp-library
+scikit-learn
+numpy
+networkx
+safetensors
+librosa
+soundfile
+huggingface_hub
+protobuf
+sentencepiece

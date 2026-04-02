@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Downloaded pre-trained models (too large for Git)
+nts_trained_model/whisper-nepali/
+nts_trained_model/whisper-small/
+nts_trained_model/mbart/
+
+# Temporary audio files
+temp_audio/
+
+# OS files
+.DS_Store
